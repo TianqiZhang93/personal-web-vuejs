@@ -5,7 +5,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="./assets/testlogo.svg" width="125" height="125" />
+    <img alt="Vue logo" class="logo" src="./assets/z-logo.svg" width="125" height="125" />
 
     <div class="wrapper">
       <HelloWorld msg="欢迎来到王大可的站!" />

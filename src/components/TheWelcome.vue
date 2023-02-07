@@ -8,7 +8,7 @@ import SupportIcon from './icons/IconSupport.vue'
 </script>
 
 <template>
-  
+
   <WelcomeItem>
     <template #icon>
       <DocumentationIcon />
@@ -35,7 +35,11 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Contact</template>
 
-    test
+    wechat : ztq---
+    <br>
+    email : dianxinztq@126.com
+    <br>
+    github : TianqiZhang93
 
   </WelcomeItem>
 

@@ -1,3 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
-  <text x="100" y="300" fill="#41b883">TQ Z</text>
+  <path d="M0 0 L100 0 L90 20 L0 20 Z"  fill="red"/>
+  <path d="M90 20 L100 40 L30 90 L0 90 Z"  fill="orange"/>
+  <path d="M0 90 L90 90 L100 110 L0 110 Z"  fill="green"/>
 </svg>
